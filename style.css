@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.px-5{
+    border-radius: 50%;
+}
+
+main
+{
+    background-color: rgb(49, 56, 56);
+    color: white;
+}
+
+/* main .lead {
+    color: white;
+} */
+
+footer {
+    background-color: rgb(49, 56, 56);
+    color: white;
+
+
+}
+
+.bg-body-tertiary {
+    
+        --bs-bg-opacity: 1;
+        background-color: rgb(72, 87, 87) !important;
+      
+}
